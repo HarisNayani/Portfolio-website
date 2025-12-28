@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="kk-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="kk-wave" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ede9fe" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#c7d2fe" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" fill="url(#kk-bg)"/>
+  <path d="M0 260 C140 220 220 320 360 300 C480 284 540 240 640 260 L640 400 L0 400 Z" fill="url(#kk-wave)"/>
+  <g opacity="0.2" fill="#f8fafc">
+    <circle cx="120" cy="110" r="60"/>
+    <rect x="440" y="80" width="140" height="140" rx="28"/>
+    <path d="M240 320 L400 340 L320 380 Z"/>
+  </g>
+  <g fill="#f8fafc">
+    <text x="60" y="150" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="700">Kho Kho Finals</text>
+    <text x="60" y="200" font-family="'Segoe UI', Arial, sans-serif" font-size="26" font-weight="600">IPD Regional Championship</text>
+    <text x="60" y="244" font-family="'Segoe UI', Arial, sans-serif" font-size="22" opacity="0.9">Girls & Boys squads advance with top defence stats.</text>
+  </g>
+</svg>

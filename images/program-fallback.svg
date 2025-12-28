@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="pf-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f2937"/>
+      <stop offset="100%" stop-color="#4b5563"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" fill="url(#pf-bg)"/>
+  <g fill="#d1d5db" opacity="0.5">
+    <rect x="120" y="80" width="120" height="120" rx="28"/>
+    <circle cx="420" cy="140" r="60"/>
+    <path d="M200 280 L440 280 L320 360 Z"/>
+  </g>
+  <text x="50%" y="52%" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="36" fill="#f9fafb">Programme Artwork</text>
+</svg>
